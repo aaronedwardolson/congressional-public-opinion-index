@@ -1,0 +1,23 @@
+---
+title: First Test Post
+author: Aaron Olson
+date: '2020-10-03'
+slug: first-test-post
+categories:
+  - R
+tags:
+  - R Markdown
+---
+## Header 1
+This is some text
+
+### Header 2
+Here is some more blog text
+
+```{r}
+data("mtcars")
+my_date <- mtcars
+plot(mtcars)
+```
+
+

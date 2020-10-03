@@ -6,7 +6,18 @@
     <description>Recent content in R on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Test Post</title>
+      <link>/2020/10/03/first-test-post/</link>
+      <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/2020/10/03/first-test-post/</guid>
+      <description>Header 1This is some text
+Header 2Here is some more blog text
+data(&amp;quot;mtcars&amp;quot;)my_date &amp;lt;- mtcarsplot(mtcars)</description>
+    </item>
+    
     <item>
       <title>Hello R Markdown</title>
       <link>/2015/07/23/hello-r-markdown/</link>
