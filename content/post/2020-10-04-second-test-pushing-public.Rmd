@@ -1,0 +1,9 @@
+---
+title: Second test (pushing public)
+author: Aaron Olson
+date: '2020-10-04'
+slug: second-test-pushing-public
+categories:
+  - r testing
+tags: []
+---
