@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>r testing on A Hugo website</title>
+    <title>r testing on Congressional Public Opinion Index</title>
     <link>/categories/r-testing/</link>
-    <description>Recent content in r testing on A Hugo website</description>
+    <description>Recent content in r testing on Congressional Public Opinion Index</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/r-testing/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,8 @@
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>/2020/10/04/second-test-pushing-public/</guid>
-      <description></description>
+      <description>Post titleThis is a test post to see what happens when I only push the public files to github.
+</description>
     </item>
     
   </channel>
