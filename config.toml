@@ -15,11 +15,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [[menu.main]]
     name = "The Index"
     url = "/theindex/"
-[[menu.main]]
-    name = "GitHub"
-    url = "https://github.com/aaronedwardolson/congressional-public-opinion-index"
 
-    
 [params]
     description = "A website built through Hugo and blogdown."
 
